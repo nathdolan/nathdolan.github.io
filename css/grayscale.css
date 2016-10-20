@@ -38,7 +38,7 @@ p {
   }
 }
 a {
-  color: #fbff00;
+  color: #fed154;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -46,7 +46,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #979900;
+  color: #ebad01;
 }
 .light {
   font-weight: 400;
@@ -225,7 +225,7 @@ a:focus {
 .download-section {
   width: 100%;
   padding: 50px 0;
-  color: #fbff00;
+  color: #fed154;
   background: url(../img/downloads-bg.png) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -260,16 +260,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #fbff00;
-  color: #fbff00;
+  border: 1px solid #fed154;
+  color: #fed154;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #fbff00;
+  border: 1px solid #fed154;
   outline: none;
   color: black;
-  background-color: #fbff00;
+  background-color: #fed154;
 }
 ul.banner-social-buttons {
   margin-top: 0;
