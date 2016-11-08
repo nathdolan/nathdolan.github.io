@@ -54,7 +54,6 @@ a:focus {
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  text-transform: uppercase;
   background-color: black;
 }
 .navbar-custom .navbar-toggle {
