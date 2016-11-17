@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: 'Abel', sans-serif;
   color: white;
-  background-color: black;
+  background-color: #141414;
 }
 html {
   width: 100%;
@@ -159,6 +159,14 @@ a:focus {
     padding: 0;
   }
 }
+.story-header {
+  display: table;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
 .btn-circle {
   width: 70px;
   height: 70px;
@@ -196,8 +204,12 @@ a:focus {
   -moz-animation-timing-function: linear;
 }
 .content-section {
-  padding-top: 180px;
+  padding-top: 100px;
   padding-bottom: 150px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-color: #141414;
+  width: 100%;
 }
 .white-section {
   width: 100%;
@@ -217,11 +229,40 @@ a:focus {
   text-decoration: none;
   color: #ffc11e;
 }
+.headlines-section {
+  width: 100%;
+  vertical-align: middle;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  padding-left: 10%;
+  padding-right: 10%;
+  color: black;
+  background-color: white;
+}
+.headlines-section a {
+  font-weight: bold;
+  color: #b78400;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.headlines-section a:hover,
+.headlines-section a:focus {
+  text-decoration: none;
+  color: #ffc11e;
+}
+.headline-story {
+  width: 400px;
+  height: 400px;
+  float: left;
+  margin-left: 10px;
+  transform-style: preserve-3d;
+}
 .contact-section {
   width: 100%;
   padding: 0px;
   color: white;
-  background-color: black;
+  background-color: #141414;
   padding-top: 125px;
 }
 @-webkit-keyframes pulse {
@@ -254,6 +295,7 @@ a:focus {
 }
 #map {
   width: 100%;
+  background-color: #141414;
   margin-top: 50px;
   height: 300px;
 }
@@ -312,12 +354,72 @@ footer p {
   background: #fcfcfc;
   background: rgba(255, 255, 255, 0.2);
 }
+img.center {
+  display: block;
+  margin: 0 auto;
+}
 img::selection {
   background: transparent;
 }
 img::-moz-selection {
   background: transparent;
 }
+.slick-prev:before,
+.slick-next:before {
+  color: gray !important;
+}
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+/*
+* CSS Page Transitions
+* Don't forget to add vendor prefixes!
+ */
+.m-scene {
+  /** Basic styles for an animated element */
+  /** An element that fades in */
+  /** An element that fades in and slides up */
+  /** An element that fades in and slides from the right */
+}
+.m-scene .scene_element {
+  animation-duration: 0.25s;
+  transition-timing-function: ease-in;
+  animation-fill-mode: both;
+}
+.m-scene .scene_element--fadein {
+  animation-name: fadeIn;
+}
+.m-scene .scene_element--fadeinup {
+  animation-name: fadeInUp;
+}
+.m-scene .scene_element--fadeinright {
+  animation-name: fadeInRight;
 }

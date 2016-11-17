@@ -6,7 +6,7 @@ body {
     height: 100%;
     font-family: 'Abel', sans-serif;
     color: white;
-    background-color: black;
+    background-color: rgb(20, 20, 20);
 }
 
 html {
@@ -167,6 +167,15 @@ a {
     }
 }
 
+.story-header {
+    display: table;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
 .btn-circle {
     width: 70px;
     height: 70px;
@@ -207,8 +216,12 @@ a {
 }
 
 .content-section {
-    padding-top: 180px;
+    padding-top: 100px;
     padding-bottom: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgb(20, 20, 20);
+    width: 100%;
 }
 
 .white-section {
@@ -232,12 +245,44 @@ a {
     //text-shadow: -2px 0 rgba(0, 0, 0, 0.57),0 2px rgba(0, 0, 0, 0.57),2px 0 rgba(0, 0, 0, 0.57),0 -2px rgba(0, 0, 0, 0.57);
 }
 
+.headlines-section {
+    width: 100%;
+    vertical-align: middle;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: black;
+    background-color: white;
+
+    a {
+        font-weight:bold;
+        color: darken(@primary,40%);
+        -webkit-transition: all .2s ease-in-out;
+        -moz-transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out;
+        &:hover,
+        &:focus {
+            text-decoration: none;
+            color: darken(@primary,20%);
+        }
+    }
+    //text-shadow: -2px 0 rgba(0, 0, 0, 0.57),0 2px rgba(0, 0, 0, 0.57),2px 0 rgba(0, 0, 0, 0.57),0 -2px rgba(0, 0, 0, 0.57);
+}
+
+.headline-story {
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    transform-style: preserve-3d;
+}
 
 .contact-section {
     width: 100%;
     padding: 0px;
     color: white;
-    background-color: black;
+    background-color: rgb(20, 20, 20);
     padding-top: 125px;
     //text-shadow: -2px 0 rgba(0, 0, 0, 0.57),0 2px rgba(0, 0, 0, 0.57),2px 0 rgba(0, 0, 0, 0.57),0 -2px rgba(0, 0, 0, 0.57);
 }
@@ -279,6 +324,7 @@ a {
 
 #map {
     width: 100%;
+    background-color: rgb(20, 20, 20);
     margin-top: 50px;
     height: 300px;
 }
@@ -343,6 +389,11 @@ footer {
     background: fade(white, 20%);
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 img::selection {
     background: transparent;
 }
@@ -351,6 +402,74 @@ img::-moz-selection {
     background: transparent;
 }
 
+.slick-prev:before, .slick-next:before {
+    color:gray !important;
+}
+
 body {
     webkit-tap-highlight-color: fade(white, 20%);
+}
+
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translate3d(100%, 0, 0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+/*
+* CSS Page Transitions
+* Don't forget to add vendor prefixes!
+ */
+.m-scene {
+  /** Basic styles for an animated element */
+  .scene_element {
+    animation-duration: 0.25s;
+    transition-timing-function: ease-in;
+    animation-fill-mode: both;
+
+  }
+
+  /** An element that fades in */
+  .scene_element--fadein {
+    animation-name: fadeIn;
+  }
+
+  /** An element that fades in and slides up */
+  .scene_element--fadeinup {
+    animation-name: fadeInUp;
+  }
+
+  /** An element that fades in and slides from the right */
+  .scene_element--fadeinright {
+    animation-name: fadeInRight;
+  }
 }
