@@ -27,13 +27,13 @@ h6 {
 }
 p {
   margin: 0 0 25px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 768px) {
   p {
     margin: 0 0 35px;
-    font-size: 21px;
+    font-size: 19px;
     line-height: 1.6;
   }
 }
@@ -137,20 +137,20 @@ a:focus {
 }
 .intro .intro-body .brand-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   letter-spacing: 2vw;
 }
 .intro .intro-body .intro-text {
-  font-size: 20px;
+  font-size: 18px;
 }
 @media (min-width: 768px) {
   .intro .intro-body .brand-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 7vw;
-    letter-spacing: 2vw;
+    font-size: 6vw;
+    letter-spacing: 1.5vw;
   }
   .intro .intro-body .intro-text {
-    font-size: 3vw;
+    font-size: 2.5vw;
   }
 }
 @media (min-width: 768px) {
@@ -174,7 +174,7 @@ a:focus {
   padding: 7px 16px;
   border: 2px solid white;
   border-radius: 100% !important;
-  font-size: 40px;
+  font-size: 36px;
   color: white;
   background: transparent;
   -webkit-transition: background 0.3s ease-in-out;
