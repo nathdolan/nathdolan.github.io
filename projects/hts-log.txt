@@ -1,0 +1,192 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 04 Mar 2017 03:43:50 at http://www.sureassert.com/docs/javadoc/ http://www.sureassert.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.sureassert.com/docs/javadoc/ http://www.sureassert.com -O1 "C:\Users\Nathan\Downloads\Sureassert UC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:43:52	Warning: 	Moved Permanently for www.sureassert.com/
+03:43:52	Warning: 	File has moved from www.sureassert.com/ to http://www.sureassert.com/uc/
+03:44:15	Warning: 	HTML file (7539 bytes) retransferred due to lack of cache: www.sureassert.com/uc/guide/5-test-isolation/5-3-source-stubs-–-directly-manipulating-the-code-under-test/
+03:44:29	Error: 	"Method Not Allowed" (405) at link www.sureassert.com/xmlrpc.php (from www.sureassert.com/uc/)
+03:44:29	Error: 	"Not Found" (404) at link www.sureassert.com/uc/feed/ (from www.sureassert.com/uc/)
+03:46:03	Warning: 	HTML file (1135 bytes) retransferred due to lack of cache: www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-3-source-stubs-–-directly-manipulating-the-code-under-test/
+03:47:07	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=232
+03:47:07	Warning: 	File has moved from www.sureassert.com/uc/?p=232 to http://www.sureassert.com/uc/news/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=43
+03:47:11	Warning: 	File has moved from www.sureassert.com/uc/?p=43 to http://www.sureassert.com/uc/features/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/?page_id=51
+03:47:11	Warning: 	File has moved from www.sureassert.com/?page_id=51 to http://www.sureassert.com/uc/features/use-cases/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/?page_id=53
+03:47:11	Warning: 	File has moved from www.sureassert.com/?page_id=53 to http://www.sureassert.com/uc/features/automatic-continuous-testing/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/?page_id=55
+03:47:11	Warning: 	File has moved from www.sureassert.com/?page_id=55 to http://www.sureassert.com/uc/features/real-time-continuous-test-coverage-reporting/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/?page_id=59
+03:47:11	Warning: 	File has moved from www.sureassert.com/?page_id=59 to http://www.sureassert.com/uc/features/declarative-stubbing/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/?page_id=61
+03:47:11	Warning: 	File has moved from www.sureassert.com/?page_id=61 to http://www.sureassert.com/uc/features/comprehensive-junit-integration/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=51
+03:47:11	Warning: 	File has moved from www.sureassert.com/uc/?p=51 to http://www.sureassert.com/uc/features/use-cases/
+03:47:11	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=53
+03:47:11	Warning: 	File has moved from www.sureassert.com/uc/?p=53 to http://www.sureassert.com/uc/features/automatic-continuous-testing/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=55
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=55 to http://www.sureassert.com/uc/features/real-time-continuous-test-coverage-reporting/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=59
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=59 to http://www.sureassert.com/uc/features/declarative-stubbing/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=61
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=61 to http://www.sureassert.com/uc/features/comprehensive-junit-integration/
+03:47:12	Error: 	"Not Found" (404) at link www.sureassert.com/uc/features/decalartive-stubbing/ (from www.sureassert.com/uc/features/comprehensive-junit-integration/)
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=304
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=304 to http://www.sureassert.com/uc/guide/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=289
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=289 to http://www.sureassert.com/uc/guide/1-key-concepts/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=323
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=323 to http://www.sureassert.com/uc/guide/1-key-concepts/1-1-declarative-unit-testing-with-exemplars/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=325
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=325 to http://www.sureassert.com/uc/guide/1-key-concepts/continuous-unit-testing/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=329
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=329 to http://www.sureassert.com/uc/guide/1-key-concepts/1-3-real-time-test-coverage-reporting/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=333
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=333 to http://www.sureassert.com/uc/guide/1-key-concepts/1-4-junit-integration/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=335
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=335 to http://www.sureassert.com/uc/guide/1-key-concepts/1-5-about-adding-the-sureassert-dependency/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=337
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=337 to http://www.sureassert.com/uc/guide/1-key-concepts/1-6-about-adding-declarative-tests-to-your-production-code/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=340
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=340 to http://www.sureassert.com/uc/guide/1-key-concepts/1-7-use-cases/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=342
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=342 to http://www.sureassert.com/uc/guide/1-key-concepts/1-8-stubbing-and-mocking/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=291
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=291 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=348
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=348 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/2-1-automatic-incremental-execution/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=350
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=350 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/2-2-the-background-uc-engine/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=352
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=352 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/2-3-forcing-sureassert-uc-execution/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=354
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=354 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/2-4-debugging-exemplars-and-junits-with-sureassert-uc/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=356
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=356 to http://www.sureassert.com/uc/guide/2-the-sureassert-uc-engine-for-eclipse/2-5-testing-deadlocks-and-stopping-the-uc-engine/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=296
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=296 to http://www.sureassert.com/uc/guide/3-exemplars/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=358
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=358 to http://www.sureassert.com/uc/guide/3-exemplars/3-1-annotating-methods-with-exemplars/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=360
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=360 to http://www.sureassert.com/uc/guide/3-exemplars/3-2-passing-method-arguments/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=362
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=362 to http://www.sureassert.com/uc/guide/3-exemplars/3-3-sin-expressions/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=364
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=364 to http://www.sureassert.com/uc/guide/3-exemplars/3-4-sureassert-named-instances/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=366
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=366 to http://www.sureassert.com/uc/guide/3-exemplars/3-5-specifying-and-initializing-the-object-under-test/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=368
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=368 to http://www.sureassert.com/uc/guide/3-exemplars/3-6-viewing-results-and-other-test-information/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=370
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=370 to http://www.sureassert.com/uc/guide/3-exemplars/3-7-asserting-expected-results/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=372
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=372 to http://www.sureassert.com/uc/guide/3-exemplars/3-8-using-exemplars-in-interfaces-and-abstract-classes/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=374
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=374 to http://www.sureassert.com/uc/guide/3-exemplars/3-9-setup-and-tear-down-before-and-after/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=376
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=376 to http://www.sureassert.com/uc/guide/3-exemplars/3-10-further-documenting-your-exemplars/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=378
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=378 to http://www.sureassert.com/uc/guide/3-exemplars/3-11-shorthand-exemplar-properties/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=380
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=380 to http://www.sureassert.com/uc/guide/3-exemplars/3-12-inner-classes/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=498
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=498 to http://www.sureassert.com/uc/guide/3-exemplars/3-13-avoiding-duplication-in-exemplars-using-the-template-property/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=299
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=299 to http://www.sureassert.com/uc/guide/4-in-line-assertions/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=475
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=475 to http://www.sureassert.com/uc/guide/5-test-isolation/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-1-test-doubles/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-1-test-doubles/ to http://www.sureassert.com/uc/guide/5-test-isolation/5-1-test-doubles/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-2-method-stubs/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-2-method-stubs/ to http://www.sureassert.com/uc/guide/5-test-isolation/5-2-method-stubs/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-3-source-stubs-–-directly-manipulating-the-code-under-test/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-3-source-stubs-–-directly-manipulating-the-code-under-test/ to http://www.sureassert.com/uc/guide/5-test-isolation/5-3-source-stubs-%e2%80%93-directly-manipulating-the-code-under-test/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-4-expecting-stub-invocation-vstubs/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-4-expecting-stub-invocation-vstubs/ to http://www.sureassert.com/uc/guide/5-test-isolation/5-4-expecting-stub-invocation-vstubs/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-5-default-classes/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/5-test-isolation/5-5-default-classes/ to http://www.sureassert.com/uc/guide/5-test-isolation/5-5-default-classes/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=477
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=477 to http://www.sureassert.com/uc/guide/5-test-isolation/5-1-test-doubles/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=481
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=481 to http://www.sureassert.com/uc/guide/5-test-isolation/5-2-method-stubs/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=486
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=486 to http://www.sureassert.com/uc/guide/5-test-isolation/5-3-source-stubs-%e2%80%93-directly-manipulating-the-code-under-test/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=492
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=492 to http://www.sureassert.com/uc/guide/5-test-isolation/5-4-expecting-stub-invocation-vstubs/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=495
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=495 to http://www.sureassert.com/uc/guide/5-test-isolation/5-5-default-classes/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=512
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=512 to http://www.sureassert.com/uc/guide/6-behaviour-verification/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/6-behaviour-verification/6-1-using-verify-to-perform-behaviour-verification/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/6-behaviour-verification/6-1-using-verify-to-perform-behaviour-verification/ to http://www.sureassert.com/uc/guide/6-behaviour-verification/6-1-using-verify-to-perform-behaviour-verification/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=520
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=520 to http://www.sureassert.com/uc/guide/6-behaviour-verification/6-1-using-verify-to-perform-behaviour-verification/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=522
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=522 to http://www.sureassert.com/uc/guide/6-behaviour-verification/6-2-verifying-stub-invocation/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=525
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=525 to http://www.sureassert.com/uc/guide/7-coverage-reporting/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-1-graphical-in-line-reporting/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-1-graphical-in-line-reporting/ to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-1-graphical-in-line-reporting/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-2-file-level-information-warnings-and-errors/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-2-file-level-information-warnings-and-errors/ to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-2-file-level-information-warnings-and-errors/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-3-using-ignoretestcoverage/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-3-using-ignoretestcoverage/ to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-3-using-ignoretestcoverage/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-4-configuration/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/7-coverage-reporting/7-4-configuration/ to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-4-configuration/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=528
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=528 to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-1-graphical-in-line-reporting/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=530
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=530 to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-2-file-level-information-warnings-and-errors/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=532
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=532 to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-3-using-ignoretestcoverage/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=535
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=535 to http://www.sureassert.com/uc/guide/7-coverage-reporting/7-4-configuration/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=538
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=538 to http://www.sureassert.com/uc/guide/8-junit-integration/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-1-the-junit-library/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-1-the-junit-library/ to http://www.sureassert.com/uc/guide/8-junit-integration/8-1-the-junit-library/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-2-declarative-junit-test-class-association/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-2-declarative-junit-test-class-association/ to http://www.sureassert.com/uc/guide/8-junit-integration/8-2-declarative-junit-test-class-association/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-3-automatic-junit-execution/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-3-automatic-junit-execution/ to http://www.sureassert.com/uc/guide/8-junit-integration/8-3-automatic-junit-execution/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-4-sureassert-stubs-with-junit/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/guide/uc/guide/8-junit-integration/8-4-sureassert-stubs-with-junit/ to http://www.sureassert.com/uc/guide/8-junit-integration/8-4-sureassert-stubs-with-junit/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=540
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=540 to http://www.sureassert.com/uc/guide/8-junit-integration/8-1-the-junit-library/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=542
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=542 to http://www.sureassert.com/uc/guide/8-junit-integration/8-2-declarative-junit-test-class-association/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=544
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=544 to http://www.sureassert.com/uc/guide/8-junit-integration/8-3-automatic-junit-execution/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=546
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=546 to http://www.sureassert.com/uc/guide/8-junit-integration/8-4-sureassert-stubs-with-junit/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=84
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=84 to http://www.sureassert.com/uc/documentation/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/uc/getting-started/
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/uc/getting-started/ to http://www.sureassert.com/uc/getting-started/
+03:47:12	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=30
+03:47:12	Warning: 	File has moved from www.sureassert.com/uc/?p=30 to http://www.sureassert.com/uc/download/
+03:48:10	Warning: 	Retry after error -4 (Incorrect length (2241990 Bytes, 3279636 expected)) at link www.sureassert.com/distro/com.sureassert.uc.update.zip (from www.sureassert.com/uc/download/)
+03:48:10	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=77
+03:48:10	Warning: 	File has moved from www.sureassert.com/uc/?p=77 to http://www.sureassert.com/uc/getting-started/
+03:48:10	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=32
+03:48:10	Warning: 	File has moved from www.sureassert.com/uc/?p=32 to http://www.sureassert.com/uc/licensing/
+03:48:10	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=36
+03:48:10	Warning: 	File has moved from www.sureassert.com/uc/?p=36 to http://www.sureassert.com/uc/forums/
+03:48:10	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=34
+03:48:10	Warning: 	File has moved from www.sureassert.com/uc/?p=34 to http://www.sureassert.com/uc/support/
+03:48:10	Warning: 	Moved Temporarily for www.sureassert.com/mantis/
+03:48:10	Warning: 	File has moved from www.sureassert.com/mantis/ to http://www.sureassert.com/mantis/login_page.php
+03:48:10	Warning: 	Moved Permanently for www.sureassert.com/uc/?p=203
+03:48:10	Warning: 	File has moved from www.sureassert.com/uc/?p=203 to http://www.sureassert.com/uc/about-us/
+03:48:12	Warning: 	Moved Temporarily for www.sureassert.com/wp-admin/
+03:48:12	Warning: 	File has moved from www.sureassert.com/wp-admin/ to http://www.sureassert.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.sureassert.com%2Fwp-admin%2F&reauth=1
+03:48:54	Error: 	"Not Found" (404) at link www.sureassert.com/wp-admin/&reauth=1 (from www.sureassert.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.sureassert.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 4 seconds : 529 links scanned, 436 files written (6829416 bytes overall), 432 files updated [5474726 bytes received at 18008 bytes/sec], 2352530 bytes transferred using HTTP compression in 305 files, ratio 30%, 18.1 requests per connection
+(4 errors, 177 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sureassert.com	TRUE	/uc/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.sureassert.com	TRUE	/	FALSE	1999999999	PHPSESSID	qi0paahljoqms7q7c02n7hhls2
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT-2
+www.sureassert.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
