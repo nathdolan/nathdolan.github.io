@@ -12,7 +12,7 @@
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.17.3",
     "font-awesome": "^4.6.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^2.0.13",
     "gulp-header": "^1.8.8",
     "gulp-install": "^0.6.0",
